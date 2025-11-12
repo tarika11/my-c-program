@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1762867048 source:c:\cp\for_loop_calc_sum_of_first_nnatural_num\main.c
+	<stdio.h>
+	<stdlib.h>
+
